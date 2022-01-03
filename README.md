@@ -1,6 +1,8 @@
 # water-modelling
 Physically accurate modelling of the change of water's volume with temperature
 
+# Description in Ukrainian
+
 Проєкт з плавлення льоду та замерзання води:
 
 При вводі температури менше або більше нуля автоматичне переключення режимів, між собою
